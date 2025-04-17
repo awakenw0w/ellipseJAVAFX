@@ -66,7 +66,6 @@ public class EllipseJAVAFX extends Application {
                 startButton.setText("Стоп");
             }
         });
-
         //СЦЕНА
         Scene scene = new Scene(root, 350, 270, Color.LIGHTYELLOW);
         stage.setTitle("Эллипс на Жаба ФХ");
